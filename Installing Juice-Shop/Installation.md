@@ -11,4 +11,4 @@ ScreenShot:
 <img width="1920" height="1080" alt="Image" src="https://github.com/Gautam-CyberSec/Juice-Shop/blob/main/Screenshots/Screenshot%202025-09-13%20131757.png" />
 
 On Browser open http://http://localhost:3000 for Juice-Shop
-<img width="1919" height="1072" alt="Image" src="https://github.com/Gautam-CyberSec/Juice-Shop/blob/main/Screenshots/Screenshot%202025-09-13%20131757.png" />
+<img width="1919" height="1072" alt="Image" src="https://github.com/Gautam-CyberSec/Juice-Shop/blob/main/Screenshots/Screenshot%202025-09-12%20231859.png" />
